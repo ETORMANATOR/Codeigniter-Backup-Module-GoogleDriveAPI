@@ -12,3 +12,5 @@ How to Fix: Change the backup folder Permission to 777 (chmod 777 backup)
 ## test2.json You can get this in you google console https://console.cloud.google.com/apis/credentials?project
 
 Other Tutorial Create your own Service Account https://support.google.com/a/answer/7378726?hl=en
+
+## backup folder where to save your backup local after saving it to local it will upload to your Google Drive.
