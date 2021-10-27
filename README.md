@@ -14,3 +14,5 @@ How to Fix: Change the backup folder Permission to 777 (chmod 777 backup)
 Other Tutorial Create your own Service Account https://support.google.com/a/answer/7378726?hl=en
 
 ## backup folder where to save your backup local after saving it to local it will upload to your Google Drive.
+
+### In Application/controllers/Welcome.php line 148 chnage the email to your Google Drive Email Address
